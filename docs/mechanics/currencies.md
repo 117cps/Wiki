@@ -28,7 +28,7 @@ Valor has an 8% tax on most gold-related trading, including selling items on the
 ### How To Earn
 Selling items on the marketplace.  
 Getting Gold Caches & Gold Coins as a drop from bosses or lootboxes.  
-Buying Gold Coins off other players.  
+Trading with other players for gold coins. 
 Crushing Vials.
 
 ### Uses
